@@ -1,3 +1,5 @@
+<div align="center">
+
 # Wallpapers
 
 **My personal wallpaper collection**
@@ -221,3 +223,5 @@
 | <img src="images/White.png" width="300"> | <img src="images/wide_tokyonight_lines.png" width="300"> |
 | <img src="images/wide_tokyonight_skyline.jpg" width="300"> | <img src="images/WitchBroom_Meyers_6043.jpg" width="300"> |
 | <img src="images/zGfbjaw.png" width="300"> 
+
+</div>
